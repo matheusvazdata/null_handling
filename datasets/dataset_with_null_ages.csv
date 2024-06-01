@@ -1,0 +1,1001 @@
+Nome,Idade,Cidade,Salário
+Gustavo,29.0,Manaus,6568.87
+Gustavo,,Curitiba,3395.24
+Ana,,Fortaleza,1562.5
+Eduardo,65.0,Manaus,5290.35
+Igor,,Fortaleza,1591.56
+Helena,42.0,Manaus,2804.46
+Gustavo,25.0,Salvador,3209.92
+Eduardo,32.0,Manaus,6420.72
+Helena,,Salvador,2599.18
+Fernanda,22.0,Porto Alegre,9247.14
+Juliana,61.0,Brasília,8195.99
+Diana,32.0,Manaus,7878.37
+Igor,58.0,Teresina,9005.74
+Carlos,,Recife,8104.72
+Eduardo,,Recife,5345.44
+Carlos,53.0,Curitiba,5951.09
+Bruno,,Teresina,5674.87
+Juliana,,Curitiba,8376.21
+Eduardo,,Brasília,5889.29
+Igor,,Curitiba,4087.07
+Juliana,,Fortaleza,8226.56
+Carlos,68.0,Curitiba,4322.7
+Eduardo,,Teresina,7200.51
+Bruno,,Belo Horizonte,9403.49
+Bruno,,Curitiba,9931.69
+Fernanda,66.0,Brasília,7923.63
+Helena,,Brasília,9393.57
+Igor,58.0,Rio de Janeiro,1621.31
+Bruno,,Manaus,8646.16
+Fernanda,51.0,Porto Alegre,7567.53
+Gustavo,49.0,Porto Alegre,7898.17
+Fernanda,,Salvador,4926.92
+Juliana,,Recife,7784.36
+Diana,60.0,Porto Alegre,8533.69
+Igor,69.0,Rio de Janeiro,9392.64
+Helena,52.0,Manaus,7300.69
+Helena,,Rio de Janeiro,9314.89
+Igor,,Brasília,3020.56
+Eduardo,56.0,Recife,3118.07
+Ana,,Manaus,9940.02
+Igor,70.0,Manaus,6808.53
+Ana,68.0,Rio de Janeiro,9364.48
+Bruno,,Curitiba,2162.4
+Gustavo,,Belo Horizonte,9419.89
+Ana,,Salvador,5772.18
+Juliana,39.0,Curitiba,5803.07
+Helena,,Teresina,6491.64
+Fernanda,34.0,Brasília,3072.14
+Diana,,Porto Alegre,5622.13
+Fernanda,,Belo Horizonte,5590.73
+Bruno,,Fortaleza,3608.99
+Diana,,Recife,9733.17
+Juliana,,Belo Horizonte,2487.94
+Diana,,Rio de Janeiro,9480.37
+Diana,,Fortaleza,5885.01
+Carlos,,Recife,7475.57
+Igor,32.0,Recife,9954.13
+Helena,,Rio de Janeiro,8210.97
+Bruno,40.0,Recife,7642.84
+Bruno,,Curitiba,9005.97
+Fernanda,46.0,Curitiba,6525.89
+Igor,27.0,Porto Alegre,2750.72
+Helena,,Fortaleza,3283.84
+Bruno,59.0,Salvador,4552.36
+Eduardo,64.0,Salvador,2348.9
+Igor,,Salvador,4701.67
+Eduardo,44.0,Teresina,2567.72
+Bruno,52.0,Belo Horizonte,6374.42
+Igor,,Brasília,5939.31
+Fernanda,,Rio de Janeiro,6661.49
+Igor,44.0,Porto Alegre,7989.67
+Diana,,Belo Horizonte,6345.79
+Juliana,,Fortaleza,6625.9
+Igor,,Curitiba,2311.31
+Juliana,23.0,Manaus,5056.13
+Eduardo,,Brasília,9933.17
+Helena,,Recife,7867.02
+Bruno,,Belo Horizonte,3102.15
+Juliana,,Manaus,7596.82
+Gustavo,,Belo Horizonte,3012.42
+Fernanda,,Manaus,7346.72
+Juliana,57.0,Salvador,3842.82
+Diana,,Porto Alegre,7249.19
+Eduardo,,Curitiba,2937.73
+Carlos,34.0,Rio de Janeiro,9890.14
+Diana,69.0,Belo Horizonte,4356.27
+Carlos,,Belo Horizonte,2350.35
+Ana,,Brasília,2267.92
+Juliana,40.0,Fortaleza,1597.9
+Eduardo,,Salvador,3103.2
+Helena,,Belo Horizonte,5199.22
+Bruno,50.0,Teresina,3609.95
+Bruno,28.0,Porto Alegre,4312.61
+Carlos,39.0,Brasília,5133.66
+Carlos,69.0,Manaus,2553.21
+Ana,,Rio de Janeiro,2056.85
+Bruno,37.0,Recife,6668.21
+Igor,53.0,Rio de Janeiro,4023.97
+Gustavo,20.0,Rio de Janeiro,4760.73
+Igor,,Brasília,7573.65
+Eduardo,47.0,Curitiba,4431.39
+Igor,,Fortaleza,2936.66
+Diana,43.0,Teresina,2263.24
+Diana,,Teresina,3846.71
+Juliana,19.0,Manaus,5394.7
+Gustavo,,Rio de Janeiro,8230.71
+Juliana,34.0,Brasília,6773.1
+Eduardo,,Porto Alegre,2857.39
+Helena,66.0,Manaus,2700.53
+Helena,42.0,Porto Alegre,6241.37
+Fernanda,,Fortaleza,6322.55
+Bruno,54.0,Salvador,7281.0
+Fernanda,,Belo Horizonte,5360.45
+Juliana,55.0,Curitiba,8894.66
+Bruno,,Rio de Janeiro,2074.66
+Helena,,Manaus,4811.27
+Juliana,,Fortaleza,9790.21
+Fernanda,,Belo Horizonte,5479.85
+Diana,40.0,Brasília,1747.71
+Diana,36.0,Curitiba,8798.63
+Ana,38.0,Teresina,8376.56
+Eduardo,68.0,Curitiba,5372.87
+Bruno,56.0,Belo Horizonte,2445.99
+Diana,,Manaus,8357.87
+Fernanda,,Belo Horizonte,4054.93
+Carlos,,Belo Horizonte,4031.52
+Fernanda,,Manaus,2822.17
+Gustavo,,Manaus,8304.4
+Ana,64.0,Belo Horizonte,1558.8
+Bruno,60.0,Rio de Janeiro,4259.46
+Carlos,,Rio de Janeiro,2819.4
+Diana,22.0,Porto Alegre,8363.78
+Ana,,Rio de Janeiro,4039.06
+Juliana,,Porto Alegre,3016.41
+Igor,,Manaus,6409.79
+Juliana,,Brasília,8398.91
+Bruno,50.0,Manaus,2165.18
+Ana,66.0,Porto Alegre,8849.16
+Bruno,35.0,Manaus,5851.37
+Diana,,Salvador,5348.98
+Juliana,45.0,Teresina,8427.72
+Juliana,34.0,Rio de Janeiro,6040.7
+Bruno,,Belo Horizonte,8118.38
+Gustavo,63.0,Brasília,9212.35
+Bruno,,Teresina,8481.86
+Fernanda,,Recife,4386.43
+Bruno,68.0,Recife,7380.96
+Ana,41.0,Porto Alegre,6273.66
+Juliana,20.0,Salvador,9855.28
+Ana,,Salvador,2932.43
+Diana,19.0,Teresina,2200.67
+Carlos,,Porto Alegre,3559.57
+Bruno,,Curitiba,3218.9
+Helena,58.0,Curitiba,9913.17
+Diana,58.0,Rio de Janeiro,7599.67
+Ana,,Manaus,8684.97
+Ana,,Belo Horizonte,9512.63
+Igor,,Curitiba,1735.52
+Gustavo,66.0,Fortaleza,8785.11
+Juliana,22.0,Curitiba,4303.4
+Bruno,33.0,Brasília,4517.89
+Eduardo,,Recife,3647.77
+Bruno,,Teresina,9223.1
+Diana,,Porto Alegre,7871.06
+Bruno,45.0,Salvador,9566.18
+Eduardo,35.0,Manaus,4148.01
+Fernanda,45.0,Fortaleza,5289.08
+Gustavo,57.0,Fortaleza,9252.16
+Carlos,23.0,Belo Horizonte,3394.06
+Ana,19.0,Recife,7934.14
+Igor,18.0,Manaus,7832.24
+Helena,30.0,Fortaleza,1626.22
+Ana,42.0,Salvador,8468.2
+Juliana,67.0,Curitiba,7702.54
+Bruno,,Porto Alegre,9922.58
+Gustavo,55.0,Rio de Janeiro,8300.36
+Diana,,Brasília,8398.32
+Eduardo,54.0,Porto Alegre,3322.17
+Fernanda,,Curitiba,9752.09
+Helena,43.0,Porto Alegre,4465.56
+Juliana,,Porto Alegre,8306.94
+Carlos,,Rio de Janeiro,3005.03
+Diana,54.0,Recife,7590.4
+Ana,,Belo Horizonte,3197.48
+Carlos,,Brasília,9746.44
+Carlos,,Teresina,2509.6
+Fernanda,60.0,Salvador,7756.19
+Igor,20.0,Brasília,2811.96
+Eduardo,19.0,Teresina,8398.34
+Bruno,,Porto Alegre,7541.22
+Juliana,66.0,Fortaleza,6794.4
+Helena,,Manaus,2925.4
+Carlos,,Salvador,4948.71
+Ana,43.0,Brasília,7169.96
+Helena,,Manaus,9204.44
+Gustavo,,Manaus,2160.08
+Juliana,26.0,Fortaleza,3079.39
+Igor,,Curitiba,4817.8
+Eduardo,,Belo Horizonte,2165.75
+Fernanda,70.0,Teresina,7251.09
+Gustavo,29.0,Porto Alegre,3624.72
+Eduardo,,Rio de Janeiro,2072.87
+Carlos,,Salvador,4254.12
+Igor,70.0,Porto Alegre,5347.95
+Ana,30.0,Curitiba,6242.09
+Helena,38.0,Brasília,6666.19
+Bruno,68.0,Brasília,2334.12
+Fernanda,51.0,Porto Alegre,2941.14
+Ana,27.0,Fortaleza,9117.29
+Igor,,Salvador,8010.4
+Eduardo,,Belo Horizonte,6500.89
+Carlos,,Manaus,1910.97
+Diana,66.0,Brasília,9650.77
+Helena,,Porto Alegre,8097.34
+Fernanda,30.0,Belo Horizonte,3317.34
+Juliana,,Teresina,2017.47
+Eduardo,69.0,Curitiba,2122.77
+Fernanda,,Recife,7014.83
+Juliana,63.0,Porto Alegre,6550.91
+Juliana,,Rio de Janeiro,2956.37
+Carlos,,Teresina,7914.71
+Eduardo,,Salvador,3193.85
+Gustavo,70.0,Porto Alegre,3972.67
+Gustavo,,Recife,7795.39
+Bruno,24.0,Manaus,6327.22
+Ana,56.0,Curitiba,2777.92
+Juliana,54.0,Recife,8690.16
+Diana,39.0,Salvador,8365.48
+Fernanda,50.0,Belo Horizonte,1506.98
+Carlos,,Rio de Janeiro,9891.29
+Diana,26.0,Curitiba,4342.45
+Diana,,Recife,4133.32
+Helena,,Brasília,6145.69
+Gustavo,19.0,Brasília,3422.56
+Juliana,,Belo Horizonte,4082.24
+Gustavo,20.0,Recife,6378.37
+Ana,,Salvador,4509.35
+Gustavo,62.0,Salvador,4294.13
+Juliana,68.0,Salvador,3879.64
+Gustavo,,Recife,8015.51
+Ana,,Manaus,8476.0
+Carlos,,Rio de Janeiro,4053.34
+Helena,46.0,Rio de Janeiro,2767.27
+Bruno,56.0,Fortaleza,1826.0
+Eduardo,61.0,Brasília,1623.24
+Carlos,54.0,Belo Horizonte,6956.25
+Helena,,Rio de Janeiro,9227.39
+Igor,19.0,Teresina,4904.06
+Helena,69.0,Fortaleza,5171.75
+Igor,30.0,Salvador,8477.35
+Juliana,22.0,Brasília,6347.33
+Ana,,Curitiba,3998.16
+Ana,19.0,Salvador,1535.88
+Helena,,Rio de Janeiro,7364.94
+Fernanda,,Salvador,5361.61
+Eduardo,38.0,Teresina,2074.16
+Helena,68.0,Porto Alegre,8100.0
+Ana,,Manaus,7185.14
+Gustavo,21.0,Belo Horizonte,8279.64
+Diana,68.0,Porto Alegre,2582.59
+Igor,,Porto Alegre,4761.15
+Bruno,,Fortaleza,2989.68
+Carlos,39.0,Rio de Janeiro,3368.99
+Ana,24.0,Fortaleza,6157.98
+Gustavo,,Recife,1753.41
+Gustavo,51.0,Teresina,1847.58
+Fernanda,,Belo Horizonte,4945.72
+Ana,42.0,Teresina,3905.36
+Diana,,Rio de Janeiro,8659.11
+Ana,,Recife,1723.55
+Ana,,Recife,4210.2
+Igor,,Brasília,5069.71
+Juliana,57.0,Curitiba,3208.42
+Bruno,19.0,Curitiba,5868.03
+Diana,58.0,Recife,4528.31
+Bruno,,Manaus,3591.52
+Juliana,33.0,Brasília,1774.1
+Diana,,Porto Alegre,5685.8
+Eduardo,33.0,Fortaleza,9780.71
+Eduardo,,Belo Horizonte,1905.39
+Carlos,44.0,Brasília,8539.76
+Bruno,,Salvador,4375.5
+Helena,,Teresina,7687.48
+Gustavo,,Rio de Janeiro,6327.21
+Bruno,61.0,Teresina,3305.06
+Ana,,Rio de Janeiro,3200.25
+Eduardo,,Recife,3996.13
+Helena,19.0,Curitiba,4250.12
+Bruno,,Porto Alegre,7729.66
+Eduardo,,Fortaleza,8251.55
+Carlos,,Rio de Janeiro,3034.24
+Igor,,Fortaleza,7624.83
+Fernanda,,Porto Alegre,3843.53
+Bruno,61.0,Rio de Janeiro,9534.59
+Carlos,,Rio de Janeiro,8280.43
+Eduardo,44.0,Fortaleza,2439.35
+Ana,54.0,Manaus,6335.23
+Ana,,Porto Alegre,8237.63
+Ana,26.0,Teresina,9301.94
+Diana,,Curitiba,2879.61
+Eduardo,52.0,Rio de Janeiro,4729.94
+Igor,,Belo Horizonte,3386.78
+Fernanda,44.0,Brasília,7974.67
+Fernanda,24.0,Belo Horizonte,2594.27
+Juliana,,Belo Horizonte,6870.6
+Ana,48.0,Brasília,9011.04
+Juliana,32.0,Porto Alegre,7354.29
+Helena,33.0,Belo Horizonte,4582.49
+Helena,,Brasília,1891.05
+Gustavo,34.0,Manaus,6743.09
+Fernanda,51.0,Teresina,3435.61
+Igor,,Fortaleza,5860.62
+Carlos,56.0,Salvador,5633.0
+Diana,33.0,Teresina,6360.01
+Gustavo,20.0,Rio de Janeiro,2165.05
+Juliana,69.0,Rio de Janeiro,2443.83
+Eduardo,,Porto Alegre,8977.56
+Ana,,Rio de Janeiro,4078.32
+Carlos,27.0,Salvador,4212.68
+Carlos,19.0,Curitiba,2615.23
+Eduardo,64.0,Porto Alegre,9688.31
+Fernanda,,Salvador,9964.15
+Fernanda,63.0,Curitiba,6762.1
+Fernanda,56.0,Brasília,3027.46
+Bruno,,Manaus,5036.94
+Fernanda,39.0,Fortaleza,1612.2
+Juliana,,Fortaleza,8203.08
+Ana,55.0,Recife,2670.57
+Ana,,Belo Horizonte,5878.14
+Eduardo,41.0,Salvador,7580.06
+Carlos,27.0,Teresina,7170.02
+Carlos,67.0,Manaus,3795.46
+Juliana,,Salvador,5042.44
+Eduardo,30.0,Manaus,9455.31
+Fernanda,29.0,Curitiba,2009.75
+Gustavo,36.0,Porto Alegre,3617.99
+Igor,,Recife,3763.19
+Carlos,36.0,Fortaleza,4366.43
+Eduardo,20.0,Recife,2392.74
+Bruno,35.0,Brasília,8634.52
+Helena,,Brasília,5682.65
+Diana,,Porto Alegre,8564.8
+Ana,,Recife,1994.13
+Eduardo,57.0,Porto Alegre,3751.33
+Carlos,,Belo Horizonte,2415.91
+Igor,45.0,Belo Horizonte,3919.68
+Bruno,,Curitiba,9291.63
+Eduardo,,Brasília,3477.11
+Gustavo,67.0,Recife,9823.95
+Fernanda,,Teresina,3193.7
+Eduardo,,Recife,7322.93
+Gustavo,,Brasília,2534.27
+Bruno,,Manaus,9863.43
+Bruno,,Porto Alegre,7150.79
+Igor,70.0,Curitiba,9746.86
+Helena,40.0,Teresina,4443.89
+Helena,63.0,Rio de Janeiro,4820.73
+Fernanda,,Brasília,8957.03
+Fernanda,69.0,Fortaleza,7186.9
+Bruno,67.0,Belo Horizonte,6044.55
+Helena,28.0,Curitiba,7321.81
+Bruno,58.0,Salvador,3658.49
+Helena,,Manaus,7528.2
+Gustavo,42.0,Recife,5845.07
+Ana,33.0,Fortaleza,7760.01
+Eduardo,40.0,Belo Horizonte,9139.94
+Fernanda,48.0,Teresina,2388.93
+Carlos,44.0,Brasília,9790.95
+Carlos,,Salvador,7229.84
+Juliana,,Brasília,4499.84
+Gustavo,,Brasília,2752.93
+Bruno,,Recife,2536.23
+Bruno,,Teresina,7719.1
+Bruno,,Curitiba,8284.88
+Diana,,Manaus,7949.85
+Diana,,Curitiba,2978.74
+Ana,,Rio de Janeiro,9145.79
+Gustavo,,Brasília,3600.32
+Ana,41.0,Belo Horizonte,9289.75
+Bruno,,Rio de Janeiro,9339.65
+Gustavo,61.0,Fortaleza,6432.24
+Igor,41.0,Fortaleza,3544.64
+Igor,60.0,Salvador,5559.61
+Eduardo,,Manaus,3138.27
+Helena,,Porto Alegre,5125.07
+Helena,,Curitiba,9412.95
+Juliana,,Rio de Janeiro,9391.44
+Diana,51.0,Salvador,9966.83
+Gustavo,,Teresina,8228.78
+Bruno,46.0,Fortaleza,2693.88
+Fernanda,,Brasília,8445.5
+Diana,,Recife,4485.54
+Eduardo,,Teresina,2602.22
+Juliana,,Curitiba,9438.59
+Carlos,,Manaus,5417.71
+Gustavo,59.0,Porto Alegre,8026.55
+Diana,,Salvador,4210.59
+Fernanda,50.0,Brasília,6682.38
+Bruno,20.0,Fortaleza,5615.01
+Bruno,,Porto Alegre,3908.97
+Ana,35.0,Rio de Janeiro,4990.71
+Igor,53.0,Teresina,8299.81
+Helena,48.0,Rio de Janeiro,5440.48
+Diana,,Recife,3008.85
+Bruno,52.0,Salvador,7984.5
+Helena,28.0,Salvador,8885.61
+Gustavo,,Salvador,3465.75
+Eduardo,,Curitiba,6819.06
+Diana,22.0,Porto Alegre,5115.33
+Ana,43.0,Brasília,6829.05
+Diana,,Salvador,6459.53
+Juliana,34.0,Fortaleza,4010.09
+Carlos,,Teresina,6100.16
+Bruno,,Salvador,1764.6
+Diana,,Porto Alegre,1916.83
+Helena,,Brasília,9882.62
+Gustavo,,Belo Horizonte,5005.4
+Fernanda,,Salvador,4626.11
+Igor,,Salvador,9040.64
+Carlos,43.0,Salvador,3585.89
+Bruno,,Manaus,7054.31
+Juliana,48.0,Manaus,2421.33
+Helena,67.0,Porto Alegre,2491.67
+Carlos,,Brasília,6644.66
+Juliana,,Fortaleza,4015.6
+Gustavo,49.0,Recife,5625.88
+Gustavo,,Porto Alegre,3592.76
+Igor,18.0,Salvador,8107.93
+Helena,40.0,Manaus,9416.91
+Fernanda,,Belo Horizonte,6590.13
+Helena,37.0,Recife,3088.68
+Helena,32.0,Teresina,4404.09
+Diana,,Salvador,7966.91
+Igor,32.0,Brasília,8872.4
+Juliana,30.0,Brasília,4345.34
+Diana,60.0,Porto Alegre,2374.26
+Ana,36.0,Rio de Janeiro,4173.28
+Fernanda,,Curitiba,9078.07
+Fernanda,,Recife,2368.62
+Fernanda,43.0,Curitiba,7832.64
+Ana,50.0,Salvador,6276.32
+Igor,32.0,Teresina,9349.84
+Carlos,58.0,Manaus,7757.78
+Eduardo,45.0,Recife,5558.9
+Juliana,40.0,Belo Horizonte,6729.41
+Carlos,67.0,Belo Horizonte,9339.63
+Gustavo,24.0,Brasília,5694.61
+Juliana,,Rio de Janeiro,4348.73
+Eduardo,,Rio de Janeiro,6738.1
+Helena,,Belo Horizonte,3274.59
+Bruno,,Manaus,6888.08
+Bruno,39.0,Teresina,4933.88
+Igor,,Curitiba,5853.79
+Ana,61.0,Belo Horizonte,4390.52
+Bruno,42.0,Teresina,9924.5
+Diana,50.0,Fortaleza,9184.7
+Carlos,,Salvador,3713.01
+Ana,61.0,Salvador,8153.24
+Eduardo,50.0,Belo Horizonte,7457.48
+Ana,,Porto Alegre,2064.36
+Helena,,Salvador,8545.58
+Fernanda,23.0,Brasília,8291.28
+Carlos,38.0,Porto Alegre,1825.07
+Carlos,32.0,Fortaleza,2323.24
+Helena,,Teresina,9442.83
+Fernanda,,Belo Horizonte,3888.59
+Igor,,Brasília,7984.09
+Gustavo,64.0,Belo Horizonte,3660.92
+Igor,,Rio de Janeiro,1652.03
+Igor,29.0,Rio de Janeiro,7727.11
+Ana,,Brasília,6924.09
+Juliana,,Porto Alegre,8432.91
+Bruno,,Porto Alegre,7711.17
+Igor,,Porto Alegre,9806.23
+Juliana,,Salvador,9233.7
+Bruno,23.0,Teresina,7603.82
+Gustavo,,Manaus,3211.42
+Diana,51.0,Porto Alegre,4847.34
+Eduardo,,Recife,6842.01
+Igor,,Brasília,6076.78
+Juliana,44.0,Rio de Janeiro,4904.24
+Gustavo,,Teresina,6624.19
+Helena,,Porto Alegre,6133.3
+Gustavo,,Curitiba,9015.96
+Juliana,57.0,Brasília,4171.17
+Juliana,19.0,Porto Alegre,5189.63
+Diana,63.0,Fortaleza,2288.16
+Ana,70.0,Curitiba,2562.81
+Ana,61.0,Salvador,7079.51
+Carlos,,Rio de Janeiro,6228.79
+Eduardo,,Salvador,9692.49
+Igor,,Teresina,7907.47
+Juliana,,Teresina,4572.43
+Eduardo,,Rio de Janeiro,9968.16
+Fernanda,,Recife,2204.29
+Bruno,,Teresina,3395.61
+Helena,,Porto Alegre,5179.96
+Eduardo,54.0,Porto Alegre,6976.17
+Eduardo,30.0,Teresina,7417.19
+Gustavo,,Teresina,3936.54
+Gustavo,,Teresina,2052.17
+Gustavo,62.0,Manaus,3837.75
+Ana,25.0,Teresina,9502.8
+Carlos,,Belo Horizonte,3317.4
+Carlos,47.0,Manaus,7664.87
+Diana,26.0,Belo Horizonte,5349.69
+Eduardo,34.0,Brasília,2841.66
+Fernanda,23.0,Rio de Janeiro,1522.33
+Ana,,Manaus,6360.87
+Ana,,Belo Horizonte,7278.04
+Helena,40.0,Teresina,1922.23
+Gustavo,67.0,Fortaleza,4643.38
+Carlos,19.0,Belo Horizonte,1961.54
+Helena,,Rio de Janeiro,3407.67
+Juliana,53.0,Rio de Janeiro,3422.45
+Bruno,66.0,Rio de Janeiro,3670.63
+Carlos,32.0,Manaus,6309.3
+Fernanda,33.0,Rio de Janeiro,4683.6
+Gustavo,48.0,Curitiba,7064.57
+Ana,,Rio de Janeiro,4164.77
+Juliana,46.0,Brasília,7063.22
+Helena,41.0,Salvador,7438.6
+Gustavo,,Rio de Janeiro,9892.82
+Helena,,Rio de Janeiro,6742.15
+Ana,30.0,Brasília,8535.49
+Bruno,,Brasília,8092.62
+Helena,,Fortaleza,3572.11
+Carlos,,Belo Horizonte,7799.0
+Ana,,Fortaleza,9685.52
+Ana,67.0,Rio de Janeiro,2334.82
+Juliana,,Belo Horizonte,2397.12
+Juliana,44.0,Recife,6604.01
+Carlos,,Salvador,2278.08
+Fernanda,,Fortaleza,8618.65
+Bruno,68.0,Belo Horizonte,8331.26
+Igor,,Rio de Janeiro,5186.38
+Fernanda,64.0,Fortaleza,7028.56
+Diana,29.0,Teresina,4861.51
+Gustavo,27.0,Fortaleza,7756.07
+Helena,,Curitiba,7980.92
+Bruno,56.0,Rio de Janeiro,5954.58
+Ana,,Salvador,8997.08
+Juliana,49.0,Recife,4209.62
+Helena,,Fortaleza,5938.08
+Juliana,,Recife,2577.23
+Fernanda,,Fortaleza,4045.66
+Bruno,33.0,Manaus,3998.16
+Juliana,,Fortaleza,4915.85
+Eduardo,,Salvador,5934.5
+Carlos,66.0,Porto Alegre,1927.48
+Gustavo,59.0,Curitiba,6350.53
+Eduardo,61.0,Manaus,3602.73
+Bruno,,Rio de Janeiro,4837.58
+Igor,28.0,Belo Horizonte,6231.95
+Diana,53.0,Manaus,4114.16
+Ana,63.0,Salvador,2528.26
+Gustavo,43.0,Recife,4169.01
+Helena,60.0,Porto Alegre,7489.68
+Fernanda,,Recife,3673.36
+Diana,,Fortaleza,7417.1
+Helena,,Recife,3771.24
+Fernanda,,Teresina,5296.75
+Bruno,43.0,Teresina,9287.33
+Ana,,Teresina,8437.97
+Ana,,Belo Horizonte,4242.88
+Helena,19.0,Porto Alegre,2148.01
+Eduardo,,Curitiba,5203.63
+Ana,44.0,Belo Horizonte,4397.55
+Igor,,Belo Horizonte,1557.99
+Juliana,,Rio de Janeiro,2421.67
+Juliana,,Brasília,9704.49
+Diana,51.0,Brasília,7577.02
+Diana,37.0,Belo Horizonte,8578.18
+Bruno,,Porto Alegre,2396.38
+Igor,23.0,Porto Alegre,3169.42
+Igor,,Belo Horizonte,7221.63
+Gustavo,31.0,Teresina,1542.62
+Igor,57.0,Belo Horizonte,9408.5
+Eduardo,,Recife,1653.68
+Bruno,,Recife,7864.26
+Carlos,,Curitiba,2436.44
+Gustavo,,Rio de Janeiro,7160.54
+Juliana,55.0,Fortaleza,1669.75
+Gustavo,27.0,Brasília,7796.51
+Bruno,,Belo Horizonte,3831.93
+Bruno,55.0,Porto Alegre,9234.64
+Gustavo,,Recife,4061.75
+Bruno,42.0,Curitiba,9335.44
+Bruno,65.0,Rio de Janeiro,3206.82
+Gustavo,32.0,Manaus,7826.24
+Carlos,,Curitiba,6629.01
+Ana,27.0,Recife,9215.12
+Helena,58.0,Salvador,4107.89
+Gustavo,22.0,Rio de Janeiro,1626.61
+Gustavo,45.0,Porto Alegre,8798.46
+Ana,,Salvador,8094.22
+Helena,25.0,Fortaleza,9500.5
+Fernanda,,Recife,8082.52
+Eduardo,,Teresina,2407.22
+Bruno,,Recife,7394.51
+Fernanda,63.0,Curitiba,2805.33
+Bruno,,Salvador,5379.09
+Bruno,58.0,Teresina,8417.59
+Fernanda,34.0,Salvador,3865.98
+Ana,25.0,Fortaleza,9292.29
+Fernanda,36.0,Porto Alegre,9553.42
+Fernanda,,Belo Horizonte,8012.92
+Carlos,,Porto Alegre,7531.76
+Ana,,Teresina,6184.99
+Diana,28.0,Porto Alegre,5361.88
+Fernanda,,Rio de Janeiro,3702.01
+Bruno,58.0,Recife,2298.88
+Juliana,,Salvador,9399.29
+Carlos,,Teresina,9977.56
+Diana,57.0,Porto Alegre,6198.65
+Ana,,Curitiba,8092.26
+Diana,,Belo Horizonte,4561.44
+Bruno,,Porto Alegre,8827.24
+Ana,,Recife,4559.78
+Eduardo,,Fortaleza,4763.09
+Fernanda,,Rio de Janeiro,4400.31
+Ana,,Belo Horizonte,9754.97
+Juliana,,Brasília,9008.52
+Diana,,Curitiba,1876.68
+Carlos,,Manaus,5786.45
+Carlos,56.0,Manaus,4213.42
+Helena,,Manaus,3796.13
+Bruno,35.0,Rio de Janeiro,6772.53
+Helena,,Salvador,4218.74
+Fernanda,31.0,Porto Alegre,9875.56
+Eduardo,,Teresina,4466.87
+Carlos,,Porto Alegre,1668.4
+Ana,23.0,Teresina,5315.16
+Diana,37.0,Teresina,6789.88
+Fernanda,,Manaus,4550.55
+Fernanda,,Belo Horizonte,6731.96
+Helena,,Recife,7404.14
+Eduardo,28.0,Belo Horizonte,5674.55
+Eduardo,30.0,Salvador,5286.72
+Igor,,Curitiba,3573.72
+Fernanda,44.0,Manaus,9717.25
+Carlos,,Fortaleza,2464.89
+Juliana,55.0,Curitiba,6946.87
+Bruno,,Teresina,4730.29
+Bruno,,Fortaleza,8232.39
+Igor,58.0,Curitiba,6995.87
+Juliana,61.0,Brasília,6588.69
+Eduardo,,Fortaleza,1811.94
+Carlos,18.0,Brasília,1716.59
+Gustavo,22.0,Manaus,1607.83
+Carlos,38.0,Manaus,9722.27
+Carlos,,Recife,3303.72
+Diana,,Recife,2996.61
+Fernanda,,Recife,2372.89
+Igor,68.0,Rio de Janeiro,8027.43
+Diana,44.0,Teresina,4902.07
+Diana,,Salvador,1973.88
+Carlos,34.0,Recife,2389.9
+Eduardo,69.0,Belo Horizonte,1996.34
+Fernanda,,Brasília,3689.82
+Gustavo,45.0,Curitiba,5958.77
+Ana,,Salvador,8083.49
+Carlos,32.0,Manaus,6438.66
+Juliana,,Teresina,8317.23
+Ana,,Curitiba,4334.87
+Gustavo,,Manaus,6467.19
+Bruno,,Brasília,3756.69
+Bruno,26.0,Salvador,3467.13
+Carlos,18.0,Salvador,7788.13
+Gustavo,51.0,Belo Horizonte,3523.68
+Eduardo,,Belo Horizonte,5948.25
+Igor,49.0,Salvador,1651.67
+Gustavo,35.0,Salvador,8450.79
+Carlos,45.0,Brasília,4208.89
+Juliana,,Curitiba,5956.79
+Gustavo,28.0,Porto Alegre,8965.94
+Eduardo,,Rio de Janeiro,7582.09
+Fernanda,,Belo Horizonte,2470.61
+Bruno,69.0,Manaus,3572.8
+Diana,,Teresina,8472.27
+Helena,29.0,Porto Alegre,6079.96
+Fernanda,,Belo Horizonte,4160.13
+Igor,,Rio de Janeiro,8285.55
+Ana,70.0,Belo Horizonte,3548.36
+Gustavo,,Porto Alegre,5685.76
+Gustavo,,Belo Horizonte,5698.06
+Ana,,Salvador,3027.36
+Gustavo,,Porto Alegre,3730.88
+Fernanda,51.0,Fortaleza,1826.09
+Helena,,Salvador,9605.96
+Diana,64.0,Recife,4011.93
+Fernanda,,Fortaleza,8708.3
+Eduardo,21.0,Salvador,4403.8
+Helena,28.0,Brasília,3830.25
+Bruno,50.0,Brasília,4824.05
+Carlos,31.0,Rio de Janeiro,2004.2
+Bruno,52.0,Porto Alegre,9006.27
+Eduardo,,Manaus,7281.01
+Bruno,,Recife,2352.2
+Igor,,Porto Alegre,9972.18
+Juliana,,Porto Alegre,6587.9
+Carlos,65.0,Porto Alegre,9103.57
+Helena,46.0,Salvador,2902.69
+Gustavo,44.0,Manaus,1853.42
+Carlos,60.0,Fortaleza,6037.23
+Gustavo,,Teresina,2882.35
+Gustavo,,Brasília,6424.5
+Carlos,,Fortaleza,2167.65
+Diana,,Fortaleza,2784.28
+Helena,,Curitiba,3086.81
+Fernanda,,Salvador,4806.0
+Igor,62.0,Porto Alegre,4638.6
+Carlos,33.0,Salvador,4426.39
+Fernanda,,Teresina,6289.8
+Helena,56.0,Teresina,1635.84
+Bruno,,Salvador,6499.61
+Helena,40.0,Fortaleza,1584.96
+Diana,41.0,Rio de Janeiro,8089.41
+Eduardo,50.0,Porto Alegre,4622.42
+Ana,,Teresina,2233.38
+Helena,,Teresina,6384.76
+Juliana,56.0,Brasília,7325.33
+Helena,39.0,Salvador,4604.68
+Ana,37.0,Fortaleza,4980.2
+Diana,26.0,Recife,4567.61
+Eduardo,70.0,Fortaleza,9624.53
+Bruno,69.0,Brasília,3644.68
+Eduardo,40.0,Fortaleza,2777.66
+Igor,43.0,Brasília,8607.0
+Juliana,62.0,Fortaleza,3076.76
+Carlos,,Brasília,2646.9
+Gustavo,30.0,Manaus,8494.25
+Helena,31.0,Belo Horizonte,8162.42
+Bruno,,Manaus,2448.18
+Helena,,Teresina,6446.07
+Diana,69.0,Manaus,6256.47
+Igor,39.0,Recife,6775.66
+Gustavo,45.0,Curitiba,6739.92
+Eduardo,,Porto Alegre,4540.26
+Ana,,Salvador,5477.69
+Bruno,34.0,Rio de Janeiro,5296.55
+Eduardo,,Curitiba,4857.14
+Ana,,Rio de Janeiro,4563.29
+Ana,,Belo Horizonte,4196.35
+Eduardo,,Manaus,3705.28
+Gustavo,,Brasília,8223.89
+Igor,,Belo Horizonte,4357.32
+Juliana,60.0,Brasília,8050.38
+Gustavo,57.0,Recife,4680.42
+Helena,,Brasília,4677.5
+Bruno,,Belo Horizonte,8889.42
+Eduardo,,Brasília,4490.49
+Fernanda,43.0,Porto Alegre,2761.8
+Eduardo,65.0,Brasília,9717.89
+Diana,,Recife,3197.67
+Juliana,55.0,Fortaleza,6448.51
+Bruno,,Curitiba,9937.23
+Ana,,Teresina,5128.74
+Bruno,,Recife,8264.73
+Eduardo,18.0,Fortaleza,7477.78
+Eduardo,,Porto Alegre,8005.54
+Igor,,Salvador,4607.38
+Fernanda,,Fortaleza,1762.15
+Bruno,,Manaus,4977.9
+Igor,,Rio de Janeiro,9304.63
+Diana,57.0,Porto Alegre,8373.72
+Carlos,,Belo Horizonte,2305.15
+Bruno,,Fortaleza,1943.84
+Gustavo,,Belo Horizonte,4800.82
+Eduardo,,Belo Horizonte,6811.27
+Eduardo,,Rio de Janeiro,3194.26
+Igor,44.0,Recife,1526.15
+Carlos,,Curitiba,7539.59
+Juliana,,Teresina,3448.88
+Igor,,Teresina,6723.23
+Diana,38.0,Brasília,5622.55
+Igor,49.0,Brasília,9520.66
+Bruno,56.0,Rio de Janeiro,6599.24
+Gustavo,,Manaus,9853.34
+Igor,,Fortaleza,9400.13
+Gustavo,24.0,Teresina,2018.89
+Eduardo,53.0,Belo Horizonte,2996.44
+Eduardo,56.0,Brasília,8832.15
+Helena,,Manaus,4223.51
+Fernanda,56.0,Belo Horizonte,5783.8
+Juliana,,Manaus,5318.85
+Carlos,,Porto Alegre,6389.45
+Carlos,,Rio de Janeiro,4814.65
+Bruno,29.0,Porto Alegre,7603.58
+Bruno,,Recife,3671.69
+Gustavo,61.0,Belo Horizonte,9607.76
+Gustavo,34.0,Brasília,5389.86
+Juliana,,Recife,8049.92
+Helena,58.0,Teresina,5578.88
+Carlos,,Recife,4459.06
+Igor,,Rio de Janeiro,7924.79
+Eduardo,,Rio de Janeiro,4154.3
+Fernanda,,Manaus,8584.95
+Helena,25.0,Rio de Janeiro,5675.01
+Gustavo,42.0,Porto Alegre,2668.01
+Diana,19.0,Porto Alegre,3259.63
+Helena,,Manaus,1632.0
+Helena,23.0,Recife,3938.73
+Igor,,Belo Horizonte,5168.84
+Fernanda,,Teresina,7729.2
+Helena,,Brasília,9237.64
+Ana,21.0,Salvador,3375.75
+Helena,26.0,Salvador,8266.96
+Eduardo,44.0,Curitiba,4789.06
+Carlos,,Rio de Janeiro,8811.84
+Helena,65.0,Salvador,7641.35
+Ana,,Porto Alegre,6902.03
+Juliana,,Brasília,8316.13
+Diana,,Salvador,3196.1
+Ana,,Brasília,2565.42
+Fernanda,23.0,Salvador,9896.37
+Helena,36.0,Belo Horizonte,6299.06
+Gustavo,,Salvador,7125.6
+Ana,,Curitiba,9597.44
+Igor,,Salvador,7778.14
+Bruno,,Curitiba,4570.03
+Bruno,18.0,Porto Alegre,8930.36
+Gustavo,,Rio de Janeiro,7225.54
+Ana,,Belo Horizonte,6708.38
+Fernanda,25.0,Brasília,8297.91
+Ana,18.0,Recife,1761.62
+Bruno,27.0,Recife,6593.71
+Juliana,,Porto Alegre,7088.09
+Ana,23.0,Brasília,5099.75
+Eduardo,31.0,Recife,4132.13
+Eduardo,46.0,Curitiba,2711.29
+Diana,61.0,Belo Horizonte,9635.43
+Carlos,,Brasília,3712.3
+Juliana,23.0,Belo Horizonte,7530.73
+Eduardo,46.0,Recife,6587.49
+Diana,67.0,Curitiba,8257.23
+Bruno,52.0,Brasília,5426.5
+Gustavo,53.0,Belo Horizonte,9413.03
+Helena,,Rio de Janeiro,3217.39
+Fernanda,,Fortaleza,3053.9
+Gustavo,59.0,Manaus,7980.94
+Carlos,50.0,Manaus,5375.95
+Fernanda,,Brasília,7763.09
+Gustavo,,Recife,8568.63
+Gustavo,20.0,Belo Horizonte,4985.37
+Carlos,,Rio de Janeiro,5976.51
+Helena,,Recife,7366.6
+Carlos,51.0,Belo Horizonte,5115.37
+Igor,54.0,Porto Alegre,4127.41
+Fernanda,40.0,Recife,2886.21
+Carlos,43.0,Rio de Janeiro,7909.7
+Diana,65.0,Rio de Janeiro,4112.29
+Carlos,50.0,Salvador,2892.6
+Helena,,Recife,3277.7
+Fernanda,64.0,Recife,6403.96
+Gustavo,68.0,Porto Alegre,8292.8
+Gustavo,,Recife,2009.91
+Helena,,Teresina,2575.2
+Gustavo,,Curitiba,9444.17
+Diana,41.0,Porto Alegre,6385.59
+Diana,,Belo Horizonte,3910.28
+Helena,,Belo Horizonte,2019.19
+Diana,,Fortaleza,6369.61
+Juliana,20.0,Belo Horizonte,8603.94
+Ana,20.0,Brasília,2416.74
+Gustavo,29.0,Curitiba,3714.77
+Ana,35.0,Rio de Janeiro,7564.32
+Diana,48.0,Fortaleza,6269.25
+Bruno,,Porto Alegre,6817.64
+Carlos,59.0,Rio de Janeiro,8730.18
+Fernanda,65.0,Teresina,9667.19
+Ana,,Salvador,9469.23
+Carlos,20.0,Rio de Janeiro,8376.81
+Diana,,Salvador,1752.28
+Juliana,42.0,Brasília,7693.15
+Eduardo,61.0,Brasília,6662.99
+Juliana,,Belo Horizonte,8254.97
+Bruno,63.0,Belo Horizonte,9065.18
+Igor,,Teresina,6492.58
+Eduardo,57.0,Rio de Janeiro,3445.61
+Fernanda,38.0,Belo Horizonte,5114.64
+Gustavo,,Rio de Janeiro,9571.53
+Helena,50.0,Salvador,2210.76
+Ana,,Manaus,9882.58
+Igor,41.0,Rio de Janeiro,3625.83
+Igor,,Porto Alegre,8030.66
+Gustavo,31.0,Rio de Janeiro,4422.61
+Juliana,33.0,Manaus,7657.6
+Helena,,Manaus,9952.38
+Helena,56.0,Rio de Janeiro,1842.82
+Eduardo,,Curitiba,2571.44
+Helena,,Porto Alegre,8503.09
+Diana,27.0,Salvador,8391.07
+Fernanda,,Belo Horizonte,4666.9
+Eduardo,,Fortaleza,4346.57
+Ana,46.0,Brasília,6536.04
+Ana,,Porto Alegre,9315.01
+Ana,56.0,Recife,8671.14
+Carlos,,Belo Horizonte,6535.33
+Fernanda,,Salvador,6082.12
+Ana,52.0,Porto Alegre,9259.78
+Eduardo,31.0,Belo Horizonte,2444.5
+Ana,42.0,Belo Horizonte,6751.44
+Carlos,,Rio de Janeiro,3140.95
+Bruno,40.0,Curitiba,4243.46
+Gustavo,,Fortaleza,6216.97
+Diana,,Recife,2726.66
+Juliana,,Brasília,8957.26
+Gustavo,53.0,Rio de Janeiro,2205.62
+Igor,23.0,Recife,1777.75
+Diana,50.0,Fortaleza,4512.85
+Helena,62.0,Salvador,8982.51
+Diana,44.0,Porto Alegre,6345.93
+Fernanda,61.0,Brasília,6988.26
+Juliana,,Teresina,4998.44
+Bruno,21.0,Belo Horizonte,4376.33
+Juliana,28.0,Recife,2376.24
+Bruno,57.0,Belo Horizonte,7667.62
+Fernanda,37.0,Brasília,8159.56
+Fernanda,48.0,Curitiba,3823.28
+Igor,,Curitiba,9355.37
+Helena,,Rio de Janeiro,7750.2
+Fernanda,,Belo Horizonte,2954.79
+Eduardo,,Brasília,9259.99
+Ana,60.0,Salvador,4769.85
+Igor,,Rio de Janeiro,3191.32
+Ana,,Recife,3227.96
+Diana,,Curitiba,9662.65
+Fernanda,,Rio de Janeiro,3884.48
+Bruno,70.0,Recife,7575.21
+Diana,23.0,Belo Horizonte,3329.11
+Igor,,Curitiba,5831.65
+Fernanda,,Curitiba,8402.24
+Diana,35.0,Manaus,6735.8
+Diana,,Fortaleza,8731.85
+Eduardo,,Recife,6894.52
+Eduardo,,Brasília,4330.26
+Eduardo,32.0,Recife,3635.44
+Igor,49.0,Manaus,3484.5
+Gustavo,27.0,Brasília,6423.44
+Eduardo,,Fortaleza,6312.24
+Helena,26.0,Porto Alegre,6312.45
+Fernanda,,Porto Alegre,7118.74
+Diana,,Teresina,3756.05
+Ana,40.0,Manaus,6946.7
+Eduardo,,Manaus,8146.57
+Igor,66.0,Belo Horizonte,2349.32
+Bruno,23.0,Porto Alegre,4310.35
+Ana,,Curitiba,6782.92
+Helena,,Fortaleza,9724.35
+Helena,,Fortaleza,2331.62
+Helena,,Rio de Janeiro,8934.94
+Ana,,Porto Alegre,4075.62
+Gustavo,27.0,Brasília,6349.71
+Helena,,Belo Horizonte,2322.12
+Helena,50.0,Rio de Janeiro,5581.52
+Helena,,Teresina,9204.73
+Bruno,47.0,Brasília,3412.37
+Bruno,60.0,Fortaleza,3523.12
+Bruno,32.0,Fortaleza,1836.53
+Diana,,Fortaleza,6347.36
+Bruno,24.0,Manaus,5475.22
+Carlos,49.0,Manaus,6150.43
+Gustavo,40.0,Fortaleza,3498.59
+Diana,31.0,Salvador,8886.23
+Helena,53.0,Salvador,3348.54
+Juliana,,Recife,8433.13
+Bruno,,Manaus,4325.69
+Gustavo,,Recife,7586.68
+Igor,,Curitiba,2367.11
+Gustavo,63.0,Recife,5331.1
+Ana,27.0,Brasília,9504.94
+Carlos,,Belo Horizonte,5545.95
+Diana,,Fortaleza,8179.59
+Helena,,Teresina,3120.21
+Diana,34.0,Brasília,5347.98
+Carlos,38.0,Belo Horizonte,2857.82
+Eduardo,,Teresina,3318.94
+Fernanda,40.0,Rio de Janeiro,6344.88
+Fernanda,65.0,Fortaleza,4481.52
+Gustavo,,Teresina,3728.27
+Bruno,,Belo Horizonte,2920.8
+Igor,,Rio de Janeiro,7662.52
+Eduardo,37.0,Teresina,6104.21
+Juliana,51.0,Recife,2434.32
+Igor,31.0,Porto Alegre,3492.52
+Diana,31.0,Curitiba,9183.88
+Eduardo,,Rio de Janeiro,7298.89
+Helena,52.0,Teresina,6309.56
+Igor,25.0,Curitiba,1562.91
+Juliana,,Belo Horizonte,5291.55
+Helena,,Recife,9737.38
+Igor,,Salvador,9044.17
+Eduardo,24.0,Fortaleza,4861.5
+Eduardo,,Manaus,3959.47
+Diana,,Recife,4176.71
+Ana,,Salvador,4562.78
+Bruno,31.0,Curitiba,1797.11
+Juliana,,Salvador,9383.31
+Bruno,,Teresina,7890.67
